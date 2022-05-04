@@ -40,9 +40,9 @@ Well you can design the site with [mkdocs](https://squidfunk.github.io/mkdocs-ma
 
 ### Pull Request Template
 ```md
-Hosted by @ [Your Name Here](https://example.com)
+Hosted by @ [@/3"](https://example.com)
 
-Host / IP : 192.168.0.1 or lavalink.example.com
-Port : 6969
-Password : somepasswordhere
+Host / IP : Alex cu cto
+Port : 2005199
+Password : 1233
 ```
